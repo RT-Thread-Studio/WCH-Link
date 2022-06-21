@@ -1,0 +1,9 @@
+[WCHLINK]
+LinkName=Default
+
+[Default]
+CH549Ver_RV=24
+CH549Ver_ARM=24
+CH32V307Ver=24
+CH583Ver=24
+CH32V203Ver=24
